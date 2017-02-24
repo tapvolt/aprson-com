@@ -1,1 +1,11 @@
+# ide
 .idea
+
+# dependency directories
+node_modules
+
+# compiled javascript
+bin
+
+# logs
+npm-debug.log
